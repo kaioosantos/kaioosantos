@@ -16,7 +16,7 @@ Always learning and improving my skills in software development
 
 ## 🛠️ Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=py,git,github,arch,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,ruby,git,github,arch,linux)](https://skillicons.dev)
 
 ---
 
